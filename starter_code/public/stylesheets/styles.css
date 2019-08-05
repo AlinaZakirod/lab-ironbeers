@@ -24,3 +24,23 @@ h3 {
 h4{
     font-size: 1.5em;
 }
+
+button{
+    background-color: #2081C3;
+    color: white;
+    margin: 30px;
+
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+  }
+  nav{
+      background-color: #2081C3;
+      color: white;
+      height: 100px;
+      width: 100%
+  }
