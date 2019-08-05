@@ -5,8 +5,22 @@ dark-blue: #0A2C42;
 grey: rgba(145, 145, 145, 0.481);
 font-family: Arial, Helvetica, sans-serif
 */
-  
+body{
+    background-color: blueviolet;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
 .card{
     width: 300px;
-    display: inline
+    display: inline;
+    background-color: rgba(145, 145, 145, 0.481)
+}
+h2 {
+    font-size: 2.4em;
+}
+h3 {
+    font-size: 2em;
+}
+h4{
+    font-size: 1.5em;
 }
